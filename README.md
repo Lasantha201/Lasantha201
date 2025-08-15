@@ -1,31 +1,23 @@
-# Lasantha Wijewardhana 👋
+# Hey there 👋  
+I'm **Lasantha Kumara Wijewardhana**  
 
-🚀 **Aspiring Software & DevOps Engineer | Full-Stack Developer**  
-📍 Bandarawela, Sri Lanka  
-[LinkedIn](https://www.linkedin.com/in/lasantha-wijewardhana/) | [GitHub](https://github.com/Lasantha201) | [Email](mailto:lasanthakumara738@gmail.com)
-
----
-
-## About Me
-Hands-on learner passionate about **software engineering, DevOps, and automation**.  
-Currently pursuing **HND in Computing & Software Engineering** at Cardiff Metropolitan University (via ICBT Campus).  
-I enjoy building **real-world projects**, exploring **cloud platforms, CI/CD pipelines, and containerization**, and continuously improving my technical skills.
+I’m a **DevOps-focused Software Engineer Enthusiast** who enjoys building practical solutions — from developing innovative software to automating workflows and strengthening system security. Always exploring **new tech stacks** and looking for creative ways to solve real-world problems.  
 
 ---
 
-## Skills
-
-**Programming & Scripting:** Python, Bash, Java, C++, PHP, JavaScript  
-**Web & Database:** HTML, CSS, MySQL, MongoDB  
-**DevOps & Tools:** Git, GitHub Actions, Jenkins, Docker, Kubernetes, Prometheus, Linux  
-**Cloud & Concepts:** AWS, Google Cloud, CI/CD, Pipeline Automation, Containerization, Networking Fundamentals, OOP  
-
----
-
-## ⚡ Fun Fact
-I love coding, solving real-world problems, and creating projects that make a difference.
+$ whoami  
+🚀 Aspiring DevOps Engineer & Software Engineering and Cloud Enthusiast  
+📍 Sri Lanka  
+🛠 Working with: Linux • Docker • Node.js • PHP • Python • Bash • MySQL • Java
+📚 Learning: CI/CD, Cloud Computing, Cybersecurity, and System Automation, DevOPs Tools
+💡 Passion: Merging code, security, and automation into seamless workflows  
+⚡ Fun fact: I treat debugging like a puzzle, not a problem  
 
 ---
 
-### 📊 GitHub Stats
-![Lasantha's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lasantha201&show_icons=true&theme=radical)
+$ ping  
+💼 [LinkedIn](http://www.linkedin.com/in/lasantha-wijewardhana/)  
+📂 [GitHub Repos](https://github.com/Lasantha201)  
+✉️ lasanthakumara738@gmail.com   
+
+---
