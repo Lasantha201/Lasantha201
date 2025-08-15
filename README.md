@@ -11,6 +11,7 @@ $ whoami
 📍 Sri Lanka  
 🛠 Working with: Linux • Docker • Node.js • PHP • Python • Bash • MySQL • Java
 📚 Learning: CI/CD, Cloud Computing, Cybersecurity, and System Automation and DevOps Tools
+
 💡 Passion: Merging code, security, and automation into seamless workflows  
 ⚡ Fun fact: I treat debugging like a puzzle, not a problem  
 
