@@ -1,5 +1,5 @@
 # Hey there 👋  
-I'm **Lasantha Kumara Wijewardhana**  
+I'm **Lasantha Wijewardhana**  
 
 I’m a **DevOps-focused Software Engineer Enthusiast** who enjoys building practical solutions — from developing innovative software to automating workflows and strengthening system security. Always exploring **new tech stacks** and looking for creative ways to solve real-world problems.  
 
