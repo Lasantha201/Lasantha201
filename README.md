@@ -1,43 +1,31 @@
-# Lasantha Wijewardhana
+# Lasantha Wijewardhana 👋
 
-🚀 Aspiring Software & DevOps Engineer | Full-Stack Developer | Tech Enthusiast
+🚀 **Aspiring Software & DevOps Engineer | Full-Stack Developer**  
+📍 Bandarawela, Sri Lanka  
+[LinkedIn](https://www.linkedin.com/in/lasantha-wijewardhana/) | [GitHub](https://github.com/Lasantha201) | [Email](mailto:lasanthakumara738@gmail.com)
 
 ---
 
-### About Me
+## About Me
 Hands-on learner passionate about **software engineering, DevOps, and automation**.  
 Currently pursuing **HND in Computing & Software Engineering** at Cardiff Metropolitan University (via ICBT Campus).  
-I enjoy building **real-world projects**, exploring **cloud platforms, CI/CD, and containerization**, and improving my technical skills every day.  
+I enjoy building **real-world projects**, exploring **cloud platforms, CI/CD pipelines, and containerization**, and continuously improving my technical skills.
 
 ---
 
-### 🌱 Currently Learning
-- Full-Stack Development (React, Node.js, MongoDB)  
-- Python & Bash Scripting  
-- Cloud Computing (AWS, Google Cloud)  
-- Ethical Hacking & Cybersecurity Basics  
+## Skills
+
+**Programming & Scripting:** Python, Bash, Java, C++, PHP, JavaScript  
+**Web & Database:** HTML, CSS, MySQL, MongoDB  
+**DevOps & Tools:** Git, GitHub Actions, Jenkins, Docker, Kubernetes, Prometheus, Linux  
+**Cloud & Concepts:** AWS, Google Cloud, CI/CD, Pipeline Automation, Containerization, Networking Fundamentals, OOP  
 
 ---
 
-### 💬 Ask Me About
-- Programming: Python, Java, JavaScript, C++  
-- DevOps & CI/CD: Docker, Kubernetes, Jenkins, GitHub Actions  
-- Web Development: HTML, CSS, PHP, MySQL  
-- Networking & System Fundamentals  
-
----
-
-### ⚡ Fun Facts
-- I love coding, creating projects, and exploring new technologies  
-- Enjoy solving real-world problems with practical applications  
-
----
-
-### 📫 Connect with Me
-[LinkedIn](https://www.linkedin.com/in/lasantha-wijewardhana/) | [GitHub](https://github.com/Lasantha201) | [Email](mailto:lasanthakumara738@gmail.com)
+## ⚡ Fun Fact
+I love coding, solving real-world problems, and creating projects that make a difference.
 
 ---
 
 ### 📊 GitHub Stats
 ![Lasantha's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lasantha201&show_icons=true&theme=radical)
-
