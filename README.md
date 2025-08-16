@@ -7,7 +7,7 @@ I’m a **DevOps-focused Software Engineer Enthusiast** who enjoys building prac
 
 $ whoami  
 
-🚀 Aspiring DevOps Engineer & Software Engineering and Cloud Enthusiast  
+🚀 Aspiring DevOps Engineer | Software Engineering and Cloud Enthusiast  
 📍 Sri Lanka  
 🛠 Working with: Linux • Docker • Node.js • PHP • Python • Bash • MySQL • Java
 📚 Learning: CI/CD, Cloud Computing, Cybersecurity, and System Automation and DevOps Tools
